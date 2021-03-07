@@ -81,6 +81,7 @@ body{
 }
 
 .slider__item {
+    outline: none;
     min-height         : 400px;
     background-size    : cover;
     background-position: center;
@@ -88,6 +89,7 @@ body{
 }
 
 .thumbs__item {
+    outline: none;
     width              : 140px;
     height             : 120px;
     background-size    : cover;
